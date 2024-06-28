@@ -1,4 +1,18 @@
-let number = '100'
+//esercizio 1
+let number = 100 //number
 console.log(number);
 
-const PI = '3.14'
+
+//esercizio 2
+const PI = 3.14 //number
+console.log(PI);
+
+
+
+
+
+
+
+
+// esercizio 3
+let name = 'Carlo'//string
